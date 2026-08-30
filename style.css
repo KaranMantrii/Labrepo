@@ -21,7 +21,7 @@ body {
   margin: 0;
   min-height: 100vh;
   font-family: Arial, Helvetica, sans-serif;
-  background: linear-gradient(135deg, #020817 0%, #111827 45%, #1f2937 100%);
+  background: linear-gradient(135deg, #020827 0%, #111827 45%, #1f2937 100%);
   color: var(--text);
   display: flex;
   align-items: center;
